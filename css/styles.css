@@ -1,0 +1,28 @@
+body {
+
+    font-family: 'Muli', sans-serif;
+    font-size: 1.15rem;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+.hero-section {
+
+    padding: 4% 0 6% 0 !important;
+
+}
+.hero-section .display-3 {
+    font-weight: 900;
+    color: #232e3d !important;
+    line-height: 1.1;
+}
+
+.case-study-section {
+    background: url(../img/hero-bg.jpg);
+    background-color: rgba(61, 80, 119, 0.397);
+    background-size: cover;
+    padding-top: 6%;
+    padding-bottom: 5%;
+}

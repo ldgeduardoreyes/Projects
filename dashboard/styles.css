@@ -1,0 +1,112 @@
+h4 {
+    color: #1f2b59;
+}
+.navbar-bg {
+    box-shadow: 0 5px 9px 0 rgba(127, 140, 171, 0.4);
+    background-color: #263e9c !important;
+    z-index: 1000;
+  }
+.card {
+  border-radius: 5px;
+  box-shadow: 0 2px 7px 0 rgba(127, 140, 171, 0.5);
+  background-color: #ffffff;
+}
+.card-head {
+    padding: 20px;
+    border-bottom: 1px solid #C4D2DA;
+}
+.card-content {
+    padding: 20px;
+}
+.card-select {
+    padding: 5px;
+}
+.card-select-head {
+    padding: 5px;
+    border-bottom: 1px solid #C4D2DA;
+}
+.sidebar {
+    box-shadow: 0 2px 6px 0 rgba(127, 140, 171, 0.5);
+    background-color: #ffffff;
+    height: 105vh;
+    z-index: 99;
+  }
+  .sidebar .nav-item .active {
+    background: #263e9c;
+    color: white !important;
+}
+.sidebar .nav-item:hover {
+    background: #59A1F7;
+    color: white !important;
+    transition: all .4s ease-in-out;
+}
+.sidebar .nav-item .nav-link:hover {
+    color: #ffffff;
+} 
+.sidebar .nav-item .active .nav-link {
+    color: #ffffff;
+}  
+.sidebar .nav-link {
+    color: #1f2b59;
+}
+ .card-head .nav-link {
+    display: block;
+    padding: 0rem 1rem;
+    color: #1f2b59;
+}
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #263e9c;
+    background-color: rgba(255, 255, 255, 0);
+    font-weight: bold;
+}
+.logo-demo {
+    font-size: 20px;
+    color: white !important;
+    font-weight: bold;
+}
+.custom-select {
+    border: none;
+}
+.circle {
+    height: 35px;
+    width: 35px;
+    background-color: #263e9c;
+    border-radius: 50%;
+}
+.circle-2 {
+    height: 30px;
+    width: 30px;
+    background-color: #cfcfcf;
+    border-radius: 50%;
+}
+.sub-title-user {
+    color: #7F8CAB;
+    font-size: 12px;
+}
+.dcm-user-title {
+    font-size: 14px;
+    font-weight: bold;
+}
+.dcm-user {
+    font-size: 14px;
+    font-weight: bold;
+    color: #59A1F7;
+}
+.main-graph {
+    max-height: 700px;
+}
+.navbar-nav .nav-item a {
+    color: white !important;
+}
+.user-dropdown {
+    background: none;
+    border: none;
+    color: white;
+}
+.user-dropdown:hover {
+    color:white;
+}
+.user-dropdown:active, .user-dropdown:focus {
+    border:none;
+    box-shadow: none;
+}
